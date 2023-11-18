@@ -1,0 +1,20 @@
+{
+  "data": [
+    { "county":"IT Over Store ลำปาง","id":0, "product 1": 20, "product 2": 20,
+      "product 3": 2,"product 4": 0
+    },
+    { "county":"IT Over Store กรุงเทพ","id":1,"product 1": 10, "product 2": 50,
+      "product 3": 3,"product 4": 5
+    },
+    { "county":"IT Over Storeเชียงใหม่","id":2, "product 1": 20, "product 2": 30,
+      "product 3": 50,"product 4": 10
+    },
+    { "county":"IT Over Storeลำพูน","id":3,"product 1": 2, "product 2": 10,
+      "product 3": 2,"product 4": 0
+    },
+    { "county":"IT Over Store สุโขทัย","id":4,"product 1": 10, "product 2": 15,
+      "product 3": 1,"product 4": 1
+    }
+  ]
+
+}
